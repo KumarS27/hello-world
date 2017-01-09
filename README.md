@@ -1,3 +1,4 @@
 # hello-world
-Starting with GitHub
+Starting with GitHub.
+
 Adding new stuff to the branch.
